@@ -1,4 +1,7 @@
 one line
+<<<<<<< HEAD
 second line
 Third liness
+=======
+>>>>>>> parent of 058d5bc (second commit)
 
